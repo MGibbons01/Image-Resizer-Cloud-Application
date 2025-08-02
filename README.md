@@ -1,1 +1,3 @@
-# Image-Resizer-Cloud-Application
+# ☁️ Image-Resizer-Cloud-Application
+
+
