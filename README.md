@@ -5,7 +5,7 @@
 This project involved developing a highly available and secure photo album website on AWS. It includes automated scalability, Lambda-powered image processing, database integration, and security-hardened components.
 
 While the live deployment is **no longer active**, this repository contains a **comprehensive PDF report** with **screenshots** and **explanations** documenting the setup, configuration, and testing process of all components.
-> 📝 A full report with screenshots and explanations is available here: [Project%20Report%20-%20Photo%20Album%20Website.pdf](/Project%20Report%20-%20Photo%20Album%20Website.pdf)
+> 📝 A full report with screenshots and explanations is available here: [Project Report - PhotoAlbumWebsite.pdf](/Project%20Report%20-%20Photo%20Album%20Website.pdf)
 
 
 
