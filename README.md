@@ -6,12 +6,14 @@ This project involved developing a highly available and secure photo album websi
 
 While the live deployment is **no longer active**, this repository contains a **comprehensive PDF report** with **screenshots** and **explanations** documenting the setup, configuration, and testing process of all components.
 
----
+
 
 ## 📊 Architectural Diagram
 
 
----
+![Architectural Diagram](https://github.com/MGibbons01/Archery-Database-Web-Application/blob/main/ArchersDatabaseDesign-main/Untitled%20Diagram-1742194193897.drawio.png?raw=true)
+
+
 
 ## 🏗️ Infrastructure Components
 
@@ -58,7 +60,6 @@ The infrastructure was designed for high availability, security, and scalability
 ### 🔹 IAM Roles
 - IAM Role assigned to Lambda to allow interaction with S3 and CloudWatch securely
 
----
 
 ## 🧪 Functionality & Testing
 
@@ -68,4 +69,4 @@ The application was tested by uploading `.png` images and metadata via `photoupl
 3. Metadata stored in RDS
 4. `album.php` displayed both thumbnails and data in a table
 
----
+
