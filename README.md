@@ -11,7 +11,7 @@ While the live deployment is **no longer active**, this repository contains a **
 ## 📊 Architectural Diagram
 
 
-![Architectural Diagram](https://github.com/MGibbons01/Archery-Database-Web-Application/blob/main/ArchersDatabaseDesign-main/Untitled%20Diagram-1742194193897.drawio.png?raw=true)
+![Architectural Diagram](https://github.com/MGibbons01/Image-Resizer-Cloud-Application/blob/main/ArchitecturalDiagram.png?raw=true)
 
 
 
